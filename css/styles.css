@@ -1,0 +1,63 @@
+body {
+  padding-top: 70px;
+  font-family: 'Roboto', cursive;
+}
+
+h2 {
+  color: #084c61;
+}
+
+h2 small {
+  color: #8d99ae;
+}
+
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+  background-color: #759fbc;
+}
+
+.jumbotron {
+  color: #084c61;
+  background: #eef0eb;
+
+}
+
+.jumbotron a {
+    color: #084c61;
+}
+
+.jumbotron a:hover {
+    color: #337ab7;
+}
+
+.navbar-inverse {
+  background: #084c61;
+}
+
+
+.navbar-inverse .navbar-nav>li>a {
+  color: white;
+}
+
+.navbar-inverse .navbar-brand {
+  color: white;
+}
+
+.profile-photo {
+  max-width: 200px;
+  border-radius: 100%;
+}
+
+.contact-form {
+  color: #084c61;
+  background: #eef0eb;
+
+}
+
+.under-construction {
+  text-decoration: line-through;
+}
+
+.btn { 
+  font-weight: 800;
+}
